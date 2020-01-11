@@ -1,0 +1,11 @@
+<pedido>
+<producto codigo="S2">
+ <nombre>Silla</nombre>
+ <cantidad>Ni idea</cantidad>
+</producto>
+<producto codigo="M43">
+ <nombre>Mesa</nombre>
+ <cantidad>2</cantidad>
+ <cantidad>50</cantidad>
+</producto>
+</pedido>
